@@ -1,4 +1,4 @@
-# To run this, execute `$ ruby ex13.rb` with your name (as an argument) after the file name
+# To run this, execute `$ ruby ex14.rb` with your name (as an argument) after the file name
 
 user_name = ARGV.first # Places the first argument into the user_name variable
 prompt = '> '
